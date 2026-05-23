@@ -1,0 +1,5 @@
+robustness_m4_1/          Main grid: SAC-Value prior vs M4.1 baseline/repl0
+robustness_attribution/   Attribution cohort @ sigma=6 cm (M4 warm-start, etc.)
+
+Columns typically include: success, manip_frac, manip_entered, violation_rate,
+max_force, phase fractions. See supplement Sec. F for provenance.
