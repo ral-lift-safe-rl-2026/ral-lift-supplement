@@ -1,3 +1,4 @@
 .DS_Store
 *.log
 latex/
+scripts/fig9_entry_violation_ambiguity.png
