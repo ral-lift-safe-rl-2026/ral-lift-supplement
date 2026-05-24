@@ -6,7 +6,6 @@ This repository supports the double-blind RA-L submission on **manipulation-entr
 
 | Path | Description |
 |------|-------------|
-| `main.pdf` | Manuscript (IEEE two-column, anonymous) |
 | `supplement.pdf` | Extended methods, figures, falsification, data notes (~10 pp) |
 | `multimedia/multimedia.mp4` | Qualitative rollouts (≤2 min; also on PaperCept) |
 | `multimedia/ReadMe.txt` | Multimedia description for PaperCept |
