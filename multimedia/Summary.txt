@@ -1,0 +1,22 @@
+Multimedia summary for RA-L submission: manipulation-entry collapse in safe RL.
+
+Contents:
+  multimedia.mp4  — single H.264 video (~90 s, <=120 s limit)
+  ReadMe.txt      — playback notes and clip description
+
+Video content:
+  Side-by-side robosuite Lift rollouts (Panda): unconstrained SAC-Value prior
+  (left) vs. phase-aware constrained fine-tuning M4.1 (right), at object pose
+  noise sigma = 0 cm and 6 cm. Matched reset seeds at sigma = 6 cm. Closing
+  panel: success, manipulation-entry rate, and P(success | entry).
+
+Usage:
+  Play with any standard MP4/H.264 viewer (VLC, QuickTime, browser). No special
+  software, login, or hardware required.
+
+Value:
+  Complements the main text by showing the behavioral signature of entry
+  collapse under shift: constrained policies often hesitate or fail before
+  sustained manipulation while the prior still attempts contact-rich grasping.
+  Extended tables, methods, and data are in the anonymous supplement repository
+  cited in the paper (not in this zip).
