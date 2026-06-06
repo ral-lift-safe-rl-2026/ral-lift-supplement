@@ -1,0 +1,7 @@
+data/robustness_m4_1/          Main grid: SAC-Value prior vs M4.1 baseline/repl0
+data/robustness_attribution/   Attribution cohort @ sigma=6 cm (M4 warm-start, etc.)
+scripts/plot_aggregate_ambiguity.py
+    Main-text Fig. 9 (entry vs violation); reads data/robustness_m4_1/*.csv
+
+Columns typically include: success, manip_frac, manip_entered, violation_rate,
+max_force, phase fractions. See supplement Sec. F for provenance.
